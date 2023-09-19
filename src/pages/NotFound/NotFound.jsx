@@ -18,8 +18,8 @@ const NotFound = () => {
           <Number>4</Number>
         </NumberWrap>
         <Text>
-          We’re sorry, the page you requested could not be found. Please go back
-          to the homepage.
+          We’re sorry, but the page you requested could not be found. Please go
+          back to the homepage.
         </Text>
         <StyledLink to="/">Back to home</StyledLink>
       </ContentWrap>
